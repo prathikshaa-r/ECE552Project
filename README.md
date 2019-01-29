@@ -1,4 +1,4 @@
-# ECE552 Project
+# ECE 552 - Adv Comp Arch Project
 ## Base
 This project builds upon a single issue processor with static branch prediction written for MIPS like assembly code.
 
